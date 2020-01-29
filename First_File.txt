@@ -1,0 +1,5 @@
+hi Shital ,
+how are you.
+git init.
+git remote add origin "lin".
+git pull origin master.
